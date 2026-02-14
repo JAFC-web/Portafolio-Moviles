@@ -90,7 +90,12 @@ Muestra el uso de etiquetas (labels) en ciclos "for" para salir de un ciclo exte
 ---
 ### 18a - Functions
 https://github.com/JAFC-web/Portafolio-Moviles/blob/main/18a_functions.dart  
-Le pide un numero al usuario y usando una funcion imprime su tabla de multiplicar del 0 al 9.
+Le pide un numero al usuario e imprime su tabla de multiplicar del 0 al 9 directamente en el "main()".
+
+---
+### 18b - Functions
+https://github.com/JAFC-web/Portafolio-Moviles/blob/main/18a_functions.dart  
+Le pide un numero al usuario y imprime su tabla de multiplicar del 0 al 9 usando una funcion separada llamada "multiply()".
 
 ---
 ### 19 - Cousins
