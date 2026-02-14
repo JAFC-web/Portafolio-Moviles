@@ -93,11 +93,6 @@ https://github.com/JAFC-web/Portafolio-Moviles/blob/main/18a_functions.dart
 Le pide un numero al usuario y usando una funcion imprime su tabla de multiplicar del 0 al 9.
 
 ---
-### 18b - Functions
-https://github.com/JAFC-web/Portafolio-Moviles/blob/main/18b_functions.dart  
-Le pide un numero al usuario y usando una funcion imprime su tabla de multiplicar del 0 al 9.
-
----
 ### 19 - Cousins
 https://github.com/JAFC-web/Portafolio-Moviles/blob/main/19_cousins.dart  
 Le pide un numero al usuario y usando una función determina si es primo o no.
